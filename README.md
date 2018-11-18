@@ -4,6 +4,6 @@ This is a dumbbell chart created using the d3.js library. This type of chart is 
 
 In this case, the chart shows the change in unemployment rate in Spain in 2017 from january to december. 
 
-With some input mechanisms, interactivity could be added to this chart, with smooth transitions. Axes can be trivially labeled.
 
-![Image of Dumbbell Chart](/screenshot.png?raw=true "Dumbbell Chart in D3")
+
+![Image of Dumbbell Chart](/Db_screenshot.png?raw=true "Dumbbell Chart in D3")
