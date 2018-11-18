@@ -2,7 +2,7 @@
 
 This is a dumbbell chart created using the d3.js library. This type of chart is particularly good at showing changes over time. 
 
-In this case, the chart shows the change in unemployment rate in Spain in 2017 from january to december. 
+In this case, the chart shows the evolution of unemployment rate in cities which have more than 100,000 inhabitants in Spain  from january to december in 2017. 
 
 
 
